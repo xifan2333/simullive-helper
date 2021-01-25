@@ -1,0 +1,19 @@
+{
+	"pages": [{
+		"path": "pages/shows/shows",
+		"style":{
+			"enablePullDownRefresh":true
+		}
+	}, {
+		"path": "pages/login/login"
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "同感助手",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
